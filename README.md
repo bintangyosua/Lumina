@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
-  <img src="./src/libs/images/Support_Server.png"></a>
+  <img src="https://cdn.discordapp.com/attachments/797800866173288468/798240086142615602/Support_Server.png"></a>
   <br>
   Lumina Discord Bot
   <br>
@@ -30,6 +30,6 @@
 
 **Just one [click](https://discord.gg/uXFZScA) and you can add Lumina to your own server and enjoy its full feature set!**
 
-You can see more information about the bot itself by reading the summary on [here](https://github.com/bintangyosua/LuminaDjs/master/FEATURES.md). This is the file we use to publish our bots on bot lists, too. You're welcome to use it as a guide for your own.
+You can see more information about the bot itself by reading the summary on [here](https://github.com/bintangyosua/Lumina/blob/main/FEATURES.md). This is the file we use to publish our bots on bot lists, too. You're welcome to use it as a guide for your own.
 
 ### 🤝 Contributing
